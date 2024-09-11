@@ -76,13 +76,6 @@ También puedo tener técnicas de generalización
 
 ![Audios](images/11.audios.png "Audios")
 
-## Desarrollo
-
-La anonimización de datos implica la transformación de los datos originales de manera que sea imposible identificar a las personas a las que pertenecen. Esto se logra mediante técnicas como la supresión de identificadores únicos, la agregación de datos, la generalización de atributos sensibles y el enmascaramiento de información personal.
-
-Existen diferentes métodos y algoritmos para llevar a cabo la anonimización de datos, como el k-anonimato, el l-diversidad y el t-closeness. Estos enfoques buscan equilibrar la utilidad de los datos para su análisis con la protección de la privacidad de los individuos.
-
-Es importante tener en cuenta que la anonimización de datos no garantiza una protección absoluta. Con el avance de las técnicas de análisis y la interconexión de diferentes fuentes de datos, es posible que se pueda reidentificar a las personas incluso después de haber sido anonimizadas. Por lo tanto, es fundamental implementar medidas adicionales de seguridad y cumplir con las regulaciones y estándares de privacidad vigentes.
 
 ## Conclusión
 
@@ -91,3 +84,23 @@ La anonimización de datos es una práctica esencial en el ámbito de la protecc
 En resumen, la anonimización de datos es un proceso clave para preservar la privacidad en un mundo cada vez más digitalizado. Al aplicar técnicas adecuadas de anonimización y cumplir con las regulaciones de privacidad, podemos aprovechar los beneficios de los datos sin comprometer la confidencialidad de las personas involucradas.
 
 ¿Qué es la protección de datos?
+
+## Bibliografía
+
+[Guía Anonimización de datos Archivo General de la nación](bibliografia/Guia_de_Anonimizacion-min.pdf)
+
+[Guía Anonimización de datos Centro Memoria](bibliografia/GUIA-DE-ANONIMIZACION.pdf)
+
+[Guía Anonimización de datos DANE](bibliografia/guia-metadatos.pdf)
+
+[CONPES 3920 de 2018](<bibliografia/CONPES 3920 de 2018.pdf>)
+
+[Decreto 1377 de 2013](bibliografia/Decreto_1377_de_2013.pdf)
+
+[ISOIEC 770012022](<bibliografia/ISOIEC 270012022 (2).PDF>)
+
+[Ley 1273 de 2009](<bibliografia/Ley 1273 de 2009.pdf>)
+
+[ley 1266 de 2008](bibliografia/Ley_1266_de_2008.pdf)
+
+[Ley 1681 de 2012](bibliografia/Ley_1581_de_2012.pdf)
